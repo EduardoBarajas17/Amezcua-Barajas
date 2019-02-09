@@ -1,0 +1,6 @@
+echo "# Amezcua-Barajas" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origen origen https://github.com/EduardoBarajas17/Amezcua-Barajas.git
+ git push -u maestro de origen
